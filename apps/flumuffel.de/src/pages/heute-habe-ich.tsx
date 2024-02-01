@@ -1,13 +1,13 @@
-import TILContents from '@/contents/TIL';
-import HeaderImage from '@/contents/TIL/HeaderImage';
+import TILContents from '@/contents/HHI';
+import HeaderImage from '@/contents/HHI/HeaderImage';
 import Page from '@/contents-layouts/Page';
 
 function TIL() {
   return (
     <Page
       frontMatter={{
-        title: 'Today I Learned',
-        description: `Short notes on front-end related topics.`,
+        title: 'Heute habe ich...',
+        description: `Kurze Posts zu Themen die ich am Tag gemacht habe.`,
       }}
       headerImage={<HeaderImage />}
     >
