@@ -10,7 +10,7 @@ function Index() {
       <Head
         title="Flumuffel · Hobby Entwickler und Community Owner"
         description="Ein Online-Portfolio mit einer Präsentation meiner Projekte und einigen Gedanken als Hobby Entwickler und Community Owner, der intuitives, klares und modernes liebt."
-        ogImage={`${getBaseUrl()}/assets/images/og-image.png`}
+        ogImage={`${getBaseUrl()}/assets/images/flumuffel.png`}
         overrideTitle
       />
       <IndexContents />
