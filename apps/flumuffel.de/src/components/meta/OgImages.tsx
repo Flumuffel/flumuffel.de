@@ -38,7 +38,7 @@ const styles: Record<string, CSSProperties> = {
     color: '#3b82f6',
   },
   title: {
-    color: '#334155',
+    color: '#ffffff',
     fontSize: 68,
     fontWeight: 800,
     lineHeight: 1.15,
@@ -77,19 +77,19 @@ const styles: Record<string, CSSProperties> = {
     marginRight: 16,
   },
   divider: {
-    color: '#475569',
+    color: '#ffffff',
     marginLeft: 8,
     marginRight: 8,
     fontSize: 24,
   },
   authorName: {
-    color: '#334155',
+    color: '#ffffff',
     display: 'flex',
     fontSize: 26,
     fontWeight: 800,
   },
   description: {
-    color: '#475569',
+    color: '#ffffff',
     fontSize: 26,
   },
   borderBottom: {
