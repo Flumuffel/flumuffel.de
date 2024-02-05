@@ -71,7 +71,7 @@ function HeaderTitle() {
           Ich bin{' '}
           <strong className={clsx('text-accent-600', 'dark:text-accent-500')}>
             Flumuffel
-          </strong>{' '}
+          </strong>
           ,{' '}
         </m.span>
         <m.h1
@@ -101,7 +101,7 @@ function HeaderTitle() {
             )}
           >
             Community Owner
-          </strong>{' '}
+          </strong>
           , welcher es liebt,{' '}
           <span className={clsx('block')}>neue Dinge zu erschaffen.</span>
         </m.h1>
